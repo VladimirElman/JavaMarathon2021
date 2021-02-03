@@ -29,6 +29,7 @@ public class TestFigures {
     public static void main(String[] args) {
 
 
+
         Figure[] figures = {
                 new Triangle("Red", 10, 10, 10),
                 new Triangle("Green", 10, 20, 30),
@@ -62,6 +63,8 @@ public class TestFigures {
         }
         return sum;
     }
+
+
 
 
 }
